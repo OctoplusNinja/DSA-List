@@ -1,1 +1,1 @@
-# DSA-List
+# Public Wishlist
