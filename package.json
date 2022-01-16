@@ -1,5 +1,5 @@
 {
-  "name": "dsa-list",
+  "name": "Public-Wishlist",
   "version": "1.0.0",
   "description": "An Api to Provide DSA list",
   "main": "index.js",
